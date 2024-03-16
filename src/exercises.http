@@ -1,7 +1,0 @@
-### getExerciseById
-GET http://localhost:8083/api/exercise/1
-Authorization: Basic 0
-
-### getExerciseByUserId
-GET http://localhost:8083/api/exercise
-Authorization: Basic 2
