@@ -1,7 +1,0 @@
-### getActivityByActivityId
-GET http://localhost:8083/api/activity/1
-Authorization: Basic 0
-
-### getActivityByUserId
-GET http://localhost:8083/api/activity
-Authorization: Basic 2
